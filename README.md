@@ -2,19 +2,6 @@
 # Introduction to ChatGPT
 
 ChatGPT is a large language model developed by OpenAI based on the GPT-3.5 architecture. It has been trained on a massive amount of text data to generate high-quality natural language responses to a variety of inputs, including text prompts and dialogue.
-<p align="center">
-  
-  
-  
-![Screenshot from 2023-04-21 02-08-36](https://user-images.githubusercontent.com/90936436/233488499-e6ced616-04dd-4917-b34f-b71d7b297ffe.png)
-
-
-
-
-
-
-</p>
-
 
 # About ChatGPT
 
@@ -31,6 +18,19 @@ To use ChatGPT effectively, you need to provide it with high-quality input data 
 
 # What is Generative AI
 Generative AI is a type of artificial intelligence that is capable of creating new content, such as images, videos, music, and text, that did not previously exist. It works by learning patterns from a large dataset and then using that knowledge to generate new content that is similar to what it has learned. Generative AI can be used for a wide range of applications, from creating art and music to developing more realistic video games and improving medical imaging. It has the potential to revolutionize many industries by enabling the creation of new products and services that were previously impossible or impractical to develop. However, generative AI also raises ethical concerns, such as the potential for misuse and the risk of bias and discrimination in the generated content.
+
+<p align="center">
+  
+  
+  
+![Screenshot from 2023-04-21 02-08-36](https://user-images.githubusercontent.com/90936436/233488499-e6ced616-04dd-4917-b34f-b71d7b297ffe.png)
+
+
+
+
+
+
+</p>
 
 # How to Get the Full Benefit from ChatGPT
 
