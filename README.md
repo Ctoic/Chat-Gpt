@@ -3,6 +3,10 @@
 
 ChatGPT is a large language model developed by OpenAI based on the GPT-3.5 architecture. It has been trained on a massive amount of text data to generate high-quality natural language responses to a variety of inputs, including text prompts and dialogue.
 
+![Screenshot from 2023-04-21 02-08-36](https://user-images.githubusercontent.com/90936436/233488499-e6ced616-04dd-4917-b34f-b71d7b297ffe.png)
+
+
+
 # About ChatGPT
 
 ChatGPT uses a deep neural network architecture to generate responses to text inputs. It employs unsupervised learning techniques to identify patterns and relationships in the text data it has been trained on, and uses this knowledge to generate novel, coherent responses to new inputs.
