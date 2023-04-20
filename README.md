@@ -44,3 +44,7 @@ Here are a few tips to get the most out of ChatGPT:
 - Continuously evaluate and refine your use of ChatGPT to ensure that it is meeting your needs and delivering the results you want.
 
 With these strategies in mind, you can use ChatGPT to build powerful, intelligent applications that can generate high-quality natural language responses and help you achieve your goals.
+
+# Summerizing Text 
+
+Summarizing text using Chatgpt is a powerful tool that can save time and improve productivity for anyone who needs to quickly understand the key points of a long document or article. Chatgpt, a state-of-the-art language model, uses deep learning algorithms to analyze text and extract the most important information from it. This allows users to generate concise summaries of long articles or documents, providing a quick overview of the main ideas without having to read through the entire text. Summarization using Chatgpt can be useful in a variety of settings, from academic research to business and journalism. It can also help individuals stay informed on current events by summarizing news articles or social media posts. Overall, summarization using Chatgpt is a powerful tool for increasing efficiency and productivity in any field that involves working with large amounts of text.
