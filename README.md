@@ -54,3 +54,10 @@ Chatgpt can be a valuable tool for creating marketing content that resonates wit
 
 ## For Debugging your code 
 Chatgpt can be a useful tool for developers in a number of ways. As a state-of-the-art language model, Chatgpt can be used for natural language processing tasks such as text classification, sentiment analysis, and language translation. This can help developers create more sophisticated applications that can understand and respond to natural language input from users. Chatgpt can also be used to generate code, such as automatically generating code snippets based on user input or generating training data for machine learning models. Additionally, Chatgpt can be used to generate documentation or provide guidance to developers, such as answering common programming questions or providing explanations for code snippets. Overall, Chatgpt has the potential to save developers time and streamline their workflows, allowing them to focus on building high-quality applications that meet the needs of their users.
+
+# How ChATGPT Interpret a prompt 
+- Identify the Topic 
+- Understanding The Prompt
+
+![Alt text](https://www.canva.com/design/DAFgvfX7Ii4/aJLNArJS3e2cwIUtsa5xiA/view?utm_content=DAFgvfX7Ii4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Image here")
+
