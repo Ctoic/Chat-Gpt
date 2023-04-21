@@ -59,7 +59,20 @@ Chatgpt can be a useful tool for developers in a number of ways. As a state-of-t
 - Identify the Topic 
 - Understanding The Prompt
 
+<div>
 
 
-![Alt text](https://www.canva.com/design/DAFgvfX7Ii4/aJLNArJS3e2cwIUtsa5xiA/view?utm_content=DAFgvfX7Ii4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Image here")
+
+
+
+
+
+file:///home/ctoic/Pictures/Screenshots/Patterned%203-Circle%20Venn%20Diagram%20(1).png 
+
+
+
+
+
+
+</div>
 
