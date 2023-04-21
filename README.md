@@ -62,7 +62,7 @@ Chatgpt can be a useful tool for developers in a number of ways. As a state-of-t
 <div>
 
 
-!GH](https://user-images.githubusercontent.com/90936436/233668557-9b62f5a4-c7c6-4aaf-8226-1db9a1163bef.png)
+![GH](https://user-images.githubusercontent.com/90936436/233668557-9b62f5a4-c7c6-4aaf-8226-1db9a1163bef.png)
 
 
 
